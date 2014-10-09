@@ -18,11 +18,11 @@ Please choose the correct statement.
 
 The call stack:
 
-a. is scoped globally
-b. contains the initial values passed to the function
-c. is shared between function calls
-d. cannot contain other functions
-e. is the set of initial values passed as arguments to the function
+1. is scoped globally
+2. contains the initial values passed to the function
+3. is shared between function calls
+4. cannot contain other functions
+5. is the set of initial values passed as arguments to the function
 
 Please fill in the instances of `%%` to complete the function definition:
 
