@@ -2,6 +2,8 @@ title: Concept Map - Python functions
 post_date: 2014-09-25
 post_name: concept-map-python-functions
 
+# Software Carpentry concept map
+
 I recently started taking the Software Carpentry Foundation instructor training,
 and would highly recommend the course to anyone interested in teaching
 computing concepts to scientists. Our first assignment was to make a [concept
