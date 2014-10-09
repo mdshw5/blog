@@ -9,4 +9,4 @@ map](http://teaching.software-carpentry.org/?p=8567), and my example is
 attached below. The idea of a concept map is to outline key ideas as nodes,
 with relationships between ideas as labeled edges.
 
-![concept map](http://teaching.software-carpentry.org/wp-content/uploads/2014/09/FullSizeRender.jpg)
+![concept map](http://teaching.software-carpentry.org/wp-content/uploads/2014/09/FullSizeRender-1024x861.jpg)
