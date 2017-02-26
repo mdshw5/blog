@@ -16,7 +16,7 @@ Folding the bike (video):
 
 ## Donor bike
 
-The donor bike was a 2008 Dahon Jestream that I've been commuting on for ~2 years now. I previously added the cargo rack and built a new rear wheel incorporating a [Shimano Nexus-7](http://amzn.to/2ldZdtR) internally geared hub. Even without a motor this was a fun bike to ride... the suspension works great to smooth out potholes and the occasional curb jump.
+The donor bike was a 2008 Dahon Jestream that I've been commuting on for ~2 years now. I previously added an [Axiom Journey](http://amzn.to/2lZCF4v) cargo rack and built a new rear wheel incorporating a [Shimano Nexus-7](http://amzn.to/2ldZdtR) internally geared hub. Even without a motor this was a fun bike to ride... the suspension works great to smooth out potholes and the occasional curb jump.
 
 ![Dahon jetstream 2008](http://mattshirley.com/uploads/2017/02/bbs02_build_1.jpg)
 
@@ -59,7 +59,34 @@ I really like the new full color DPC-14 display. It's very easy to read outdoors
 ![](http://mattshirley.com/uploads/2017/02/bbs02_build_13.jpg)
 ![](http://mattshirley.com/uploads/2017/02/bbs02_build_14.jpg)
 
-Under the rear rack, but above the fender, I've mounted an [Ortlieb micro](http://amzn.to/2lJQP9d) saddle bag. The rack is an adjustable 
+Under the rear rack, but above the fender, I've mounted an [Ortlieb micro](http://amzn.to/2lJQP9d) saddle bag. 
+
 ![](http://mattshirley.com/uploads/2017/02/bbs02_build_15.jpg)
 
+The whole bike still folds almost exactly like it did before adding the motor.
+
+![](http://mattshirley.com/uploads/2017/02/bbs02_build_17.jpg)
+![](http://mattshirley.com/uploads/2017/02/bbs02_build_18.jpg)
+![](http://mattshirley.com/uploads/2017/02/bbs02_build_19.jpg)
+![](http://mattshirley.com/uploads/2017/02/bbs02_build_20.jpg)
+![](http://mattshirley.com/uploads/2017/02/bbs02_build_21.jpg)
+
+There's also plenty of [retroflective tape](http://amzn.to/2ldRL1Y) on the bike for visibility.
+
+![](http://mattshirley.com/uploads/2017/02/retroflective_tape.gif)
+
 ## Bill of materials
+
+|Part   |Cost   |Vendor   |
+|---|---|---|
+|Dahon Jetstream   |$200   |Craigslist   |
+|Shimano Nexus-7 hub   |$160   |[Amazon](http://amzn.to/2ldZdtR)   |
+|Sunringlé CR-18 rim  |$30   |[Amazon](http://amzn.to/2ldCdvc)  |
+|Cut spokes |$40   |LBS  |
+|Schwalbe Marathon Winter studded tires |$40 x 2 = $80   |[Amazon](http://amzn.to/2lZxtOh)  |
+|Axiom Journey rack  |$40   |[Amazon](http://amzn.to/2le2WHR)  |
+|Ortlieb Commuter bag  |$200   |[Ortlieb](https://ortliebusa.com/product/commuter-bag-ql3-1/)  |
+|8mm cable wrap  |$10   |[Amazon](http://amzn.to/2lZvxoT)  |
+|52v Mighty Mini Cube Ebike Battery Pack Panasonic GA 7ah   |$355   |[Luna Cycle](https://lunacycle.com/52v-mighty-mini-cube-ebike-battery-pack-panasonic-ga-7ah-3-pounds/)  |
+|Bafang BBS02 750w Mid Drive kit  |$544   |[Luna Cycle](https://lunacycle.com/bafang-bbs02-750w-middrive-kit/)  |
+|Total |$1659||
