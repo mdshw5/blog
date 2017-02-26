@@ -12,7 +12,7 @@ I'm pretty happy with the way the bike came out, and I've been using it to commu
 
 Folding the bike (video):
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ELz_c7tLD2g?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ELz_c7tLD2g?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Donor bike
 
