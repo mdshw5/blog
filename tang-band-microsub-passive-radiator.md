@@ -9,7 +9,7 @@ Relative to their small cabinet and 4" speaker
 cone size, these are very capable speakers, with relatively flat response between 80-20,000hz, and noticeable extension down 
 to 70hz. These are the first speakers that I've listened to that use a 
 [passive radiator design](https://en.wikipedia.org/wiki/Passive_radiator_(speaker)), which improves their bass reproduction and 
-also increases their power handling, with a descreased overall sensitivity. I really like the idea of designing the smallest 
+also increases their power handling, with a decreased overall sensitivity. I really like the idea of designing the smallest 
 possible speaker cabinet that can perform well in a relatively small space, and so I decided that my system needed more 
 bass.
 
@@ -28,7 +28,7 @@ I decided to look at parts for building my own "microsub". Parts Express has a f
 supplies, and so I began my search for a suitable driver for my small sub. Chinese manufacturer Tang Band makes all kinds of 
 neat small form factor drivers, and I settled on a 5-1/4" Tang Band [W5-1138SMF](https://www.parts-express.com/tang-band-w5-1138smf-5-1-4-paper-cone-subwoofer-speaker--264-917). 
 This relatively tiny speaker has crazy specifications for its size. The most important to me being a 9mm Xmax and 45hz FS, with a 
-complince that allows ventex box designs to reach close to 35hz at -3dB. That's pretty low extension for a 5" driver! At $43 I decided 
+compliance that allows vented box designs to reach close to 35hz at -3dB. That's pretty low extension for a 5" driver! At $43 I decided 
 this was a great speaker to design my subwoofer around, and so I set about figuring out how to design a vented enclosure that minimizes total 
 volume. This design turned out to be difficult to acheive with a typical ported box. For a box of <1cu foot I'd need ports that are much, 
 much longer than 12", and so I turned to passive radiators.
