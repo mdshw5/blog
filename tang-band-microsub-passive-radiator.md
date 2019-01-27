@@ -15,7 +15,7 @@ bass.
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1gO2qJJs29aw0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/daft-punk-bass-1gO2qJJs29aw0">via GIPHY</a></p>
 
-Most small comercial subwoofers for home audio are [extremely pricey](http://www.sunfire.com/product/atmos-dual-65-1400w-tracking-down-converter-powered-sub-auto-eq-brushed-aluminum-cab-XTATM265) and 
+Most small commercial subwoofers for home audio are [extremely pricey](http://www.sunfire.com/product/atmos-dual-65-1400w-tracking-down-converter-powered-sub-auto-eq-brushed-aluminum-cab-XTATM265) and 
 capable, or [still expensive](http://velodyneacoustics.com/subwoofers/microvee-6-5-black-207.html) and less capable than other larger 
 subwoofers on offer. Also, forget about finding an affordable, good performing option with a white cabinet (critical for the 
 all-important *Wife Approval Factor*).
