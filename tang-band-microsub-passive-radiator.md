@@ -26,7 +26,7 @@ all-important *Wife Approval Factor*).
 After failing to find a commercially available subwoofer in my budget (<$400), and with the right aesthetics and performance, 
 I decided to look at parts for building my own "microsub". Parts Express has a fantastic line of DIY speakers and speaker building 
 supplies, and so I began my search for a suitable driver for my small sub. Chinese manufacturer Tang Band makes all kinds of 
-neat small form factor drivers, and I settled on a 5-1/4" Tang Band [W5-1138SMF](https://www.parts-express.com/tang-band-w5-1138smf-5-1-4-paper-cone-subwoofer-speaker--264-917). 
+neat small form factor drivers, and I settled on a 5-1/4" Tang Band [W5-1138SMF](http://www.anrdoezrs.net/click-8986423-1457483?url=https%3A%2F%2Fwww.parts-express.com%2Ftang-band-w5-1138smf-5-1-4-paper-cone-subwoofer-speaker--264-917). 
 This relatively tiny speaker has crazy specifications for its size. The most important to me being a 9mm Xmax and 45hz FS, with a 
 compliance that allows vented box designs to reach close to 35hz at -3dB. That's pretty low extension for a 5" driver! At $43 I decided 
 this was a great speaker to design my subwoofer around, and so I set about figuring out how to design a vented enclosure that minimizes total 
@@ -35,13 +35,13 @@ much longer than 12", and so I turned to passive radiators.
 
 Passive radiators allow you to design a vented enclosure by substituting the volume of air contained in the port tube with 
 the volume of air that the passive radiator cone moves, which is the cone area (Sd) times the maximum excursion (Xmax). I chose 
-the Dayton Audio [DS175-PR 6-1/2"](https://www.parts-express.com/dayton-audio-ds175-pr-6-1-2-designer-series-passive-radiator--295-498) passive radiator 
+the Dayton Audio [DS175-PR 6-1/2"](http://www.tkqlhce.com/click-8986423-1457483?url=https%3A%2F%2Fwww.parts-express.com%2Fdayton-audio-ds175-pr-6-1-2-designer-series-passive-radiator--295-498) passive radiator 
 for its ability to move about as much air as the W5-1138 driver: `94cm2 * 9.25mm = 86,950mm3` vs. `128.7cm2 * 8mm = 102,960mm3`. 
 To avoid over-excursion, passive radiators are usually chosen to move twice as much air as the active driver, so I used two.
 
 For an amplifier board I chose an [AOSHIKE TPA3116 DC 12-24v 100W Subwoofer Amplifier Board](https://amzn.to/2TiZVry) which, at $15, 
 provides a volume control, adjustible low pass filter, and clean 100W output at 4ohm. As good as the amp sounds I would have paid 
-twice as much. It requires a high current DC power supply [such as this one](https://www.parts-express.com/parts-express-24-vdc-5a-switching-power-supply-with-25-x-55mm-plug--120-055). 
+twice as much. It requires a high current DC power supply [such as this one](http://www.kqzyfj.com/click-8986423-1457483?url=https%3A%2F%2Fwww.parts-express.com%2Fparts-express-24-vdc-5a-switching-power-supply-with-25-x-55mm-plug--120-055). 
 Wiring the amplifier board required a [voltage divider](http://www.epanorama.net/circuits/speaker_to_line.html/) circuit with a [few resistors](https://electronics.stackexchange.com/a/100309) to step down the 50wpc speaker level to ~2V line level. 
 
 For the speaker cabinet, I chose to use existing 3/4" particleboard, thinking that I would rebuild the project using better quality 
@@ -62,10 +62,10 @@ the enclosure a matte white.
 ![](http://mattshirley.com/uploads/2019/01/IMG_2755.jpg)
 
 The cutout for the amplifer board required some work with a jigsaw, and I fabricated a plexiglass plate to seal off the back (with some 
-putty to cover the 3.5mm input). Speaker level inputs come through [binding posts](https://www.parts-express.com/parts-express-banana-5-way-speaker-wire-binding-post-terminal--260-301). 
+putty to cover the 3.5mm input). Speaker level inputs come through [binding posts](http://www.dpbolvw.net/click-8986423-1457483?url=https%3A%2F%2Fwww.parts-express.com%2Fparts-express-banana-5-way-speaker-wire-binding-post-terminal--260-301). 
 
-I added [some feet](https://www.parts-express.com/dayton-audio-drfs1-1-3-8-x-1-heavy-duty-rubber-feet-4-pcs--240-712) to give the 
-down-firing speaker enough clearance, and mounted the speakers using [these nice machine screws with backing nuts](https://www.parts-express.com/parts-express-cast-frame-8-32-speaker-mounting-kit--260-779).
+I added [some feet](http://www.tkqlhce.com/click-8986423-1457483?url=https%3A%2F%2Fwww.parts-express.com%2Fdayton-audio-drfs1-1-3-8-x-1-heavy-duty-rubber-feet-4-pcs--240-712) to give the 
+down-firing speaker enough clearance, and mounted the speakers using [these nice machine screws with backing nuts](http://www.jdoqocy.com/click-8986423-1457483?url=https%3A%2F%2Fwww.parts-express.com%2Fparts-express-cast-frame-8-32-speaker-mounting-kit--260-779).
 
 WinISD modeling of my 0.19ft3 cabinet helped me determine that I needed to add at least 25 grams of weight to the passive radiators 
 to avoid a huge peak at 80hz, so I used two 1-1/2" steel fender washers along with a neoprene washer to protect the spider from damage.
