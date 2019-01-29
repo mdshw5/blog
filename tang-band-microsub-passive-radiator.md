@@ -82,19 +82,17 @@ placing it beside the cabinet sounded best.
 ![](http://mattshirley.com/uploads/2019/01/IMG_2756.jpg) 
 
 The end result sounds pretty good. At 25% gain the output is more than sufficient to add enough bass, and by playing tones 
-through the system I can hear reproduction down to 29hz. During listening I hear useful extension to about 40hz, which is backed up 
-by my measurements with and without the subwoofer:
+through the system I can hear reproduction down to 29hz. During listening I hear useful extension to about 40hz.
 
-![](http://mattshirley.com/uploads/2019/01/microsub_spl_nosmooth.png) 
+### Edit (2019-01-29):
+I took some more measurements close to the driver and radiator to better determine the frequency response.
 
-These measurements were made from a listening position about 2 meters from the subwoofer, and 8 meters from the primary speakers. 
+![](http://mattshirley.com/uploads/2019/01/microsub_28g_spl_nosmooth.png) 
+
+These measurements were made close to the main driver, close to the radiator, and from a listening position about 2 meters from the subwoofer, and 8 meters from the primary speakers. 
 How does it sound? It's not going to wake up the neighbors, or even bother everyone living in your house (which for me is a good thing), 
 but the bass reproduction is smooth and tight, with good transient response evident on tracks such as [Jaco Pastorius' Portrait of Tracy](https://www.youtube.com/watch?v=nsZ_1mPOuyk). 
 For less than $150 I can't find any other designs that come close to producing so much good sound in such a small package. 
 
 ![](http://mattshirley.com/uploads/2019/01/IMG_2757.jpg)
 
-### Edit (2019-01-29):
-I took some more measurements close to the driver and radiator to better determine the frequency response.
-
-![](http://mattshirley.com/uploads/2019/01/microsub_28g_spl_nosmooth.png) 
