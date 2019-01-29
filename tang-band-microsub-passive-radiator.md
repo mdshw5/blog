@@ -93,3 +93,8 @@ but the bass reproduction is smooth and tight, with good transient response evid
 For less than $150 I can't find any other designs that come close to producing so much good sound in such a small package. 
 
 ![](http://mattshirley.com/uploads/2019/01/IMG_2757.jpg)
+
+### Edit (2019-01-29):
+I took some more measurements close to the driver and radiator to better determine the frequency response.
+
+![](http://mattshirley.com/uploads/2019/01/microsub_28g_spl_nosmooth.png) 
